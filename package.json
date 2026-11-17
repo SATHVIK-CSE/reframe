@@ -1,0 +1,16 @@
+{
+  "name": "reframe-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "pdfjs-dist": "6.5.438",
+    "pdfkit": "0.20.1"
+  }
+}
+
